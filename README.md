@@ -1,7 +1,8 @@
 [![Github Actions Matrix Build for Multiple Python Versions](https://github.com/jayliu1016/Matrix_Build/actions/workflows/cicd.yml/badge.svg)](https://github.com/jayliu1016/Matrix_Build/actions/workflows/cicd.yml)
 # jayliu_ids_Matrix_Build
 python project
-It is a template for my future python project.
+1. Set up a Gitlab Actions workflow
+2. Test across at least 3 different Python versions
 # Soccer Player Overview Analysis
 
 This project analyzes soccer player data, including generating summary statistics and visualizations of the goals and assists data. The dataset contains player information, including appearances, goals, assists, clean sheets, and more.
